@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc2", "mvc2\mvc2.csproj", "{D7022407-067C-4F59-9B98-3766EC8AD3A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{4BC03E06-A302-4CD9-9150-D472D8C8DAC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{87D1E461-D58E-4BCA-A547-C6CB59D1F5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7022407-067C-4F59-9B98-3766EC8AD3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7022407-067C-4F59-9B98-3766EC8AD3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7022407-067C-4F59-9B98-3766EC8AD3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7022407-067C-4F59-9B98-3766EC8AD3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC03E06-A302-4CD9-9150-D472D8C8DAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC03E06-A302-4CD9-9150-D472D8C8DAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC03E06-A302-4CD9-9150-D472D8C8DAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC03E06-A302-4CD9-9150-D472D8C8DAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D1E461-D58E-4BCA-A547-C6CB59D1F5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D1E461-D58E-4BCA-A547-C6CB59D1F5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D1E461-D58E-4BCA-A547-C6CB59D1F5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D1E461-D58E-4BCA-A547-C6CB59D1F5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
